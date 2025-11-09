@@ -1,4 +1,4 @@
-
+//p1226
 #include<stdio.h>
 #include<stdlib.h>
 
