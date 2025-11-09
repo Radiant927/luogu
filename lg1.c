@@ -27,5 +27,6 @@ int tell(int a,int b,int mod)
         base=(base*base)%mod;
         b>>=1;
     }
+    
     return (int)res;
 }
