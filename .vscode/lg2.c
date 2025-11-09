@@ -44,7 +44,7 @@ int mod_inverse(int a,int mod)
     int m0=mod;
     int x=1,y=0;
 
-    if(mod==0) return 1;
+    if(mod==1) return 0;
 
     while(a>1)
     {
